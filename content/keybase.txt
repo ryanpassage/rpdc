@@ -1,0 +1,86 @@
+==================================================================
+https://keybase.io/ryanpassage
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ryanpassage.com
+  * I am ryanpassage (https://keybase.io/ryanpassage) on keybase.
+  * I have a public key with fingerprint FD72 C0A3 BC94 9F06 1180  4F73 D1AE F9F8 14F3 49E8
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014e83ef214fc5a614e134508b3137098f0ca62a9c7b5ee3a8193bded0c48fc33c0a",
+      "fingerprint": "fd72c0a3bc949f0611804f73d1aef9f814f349e8",
+      "host": "keybase.io",
+      "key_id": "d1aef9f814f349e8",
+      "kid": "01014e83ef214fc5a614e134508b3137098f0ca62a9c7b5ee3a8193bded0c48fc33c0a",
+      "uid": "30fff87fa5866a656d73af4a010b9219",
+      "username": "ryanpassage"
+    },
+    "merkle_root": {
+      "ctime": 1524776341,
+      "hash_meta": "bae64fd1396bc2a3310ef46cb26ca3fff18da8133f9831a1176220e823c1c748",
+      "seqno": 2447323
+    },
+    "revoke": {
+      "sig_ids": [
+        "1ea024fc30aca6d9345782f95ee9ac6f213afcba6f3ad16f5438da6a6109ff980f"
+      ]
+    },
+    "service": {
+      "hostname": "ryanpassage.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1524776349,
+  "expire_in": 157680000,
+  "prev": "48e45de5f926187e998239b676b28717ca26d17f562c694959fb19ed786fbe1c",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtk31sFEUYxq9QoBSaK4ZaFKG4UYJHgZ2d3dndw4+C9oMKKLECyscxuztz3bR3
+e929tpSChZRCWlGxQKmfESVBKRRtgxEsKEkJKQhXSgFFPgS0RSEhBUktiDrbaEzU
+P91/NjPzvO/zzG9m1icN9CTGHW/s+2XkzRlX4o78qHlevPTYnnJOs4wyzl/OFZD+
+Hyk0iBMNFJgG5+d4wAORKJBQAYhUlzBiQwBFiVc0CKDMqwrldYwErOqyJhECsQJU
+qBnE4HVRoTqEOo+5dI6a4SCxI7YZjrK21JAFNg81XRVVyiMAFF6kMjQAJlSlCvOC
+okoUVphvOW4FC6dhh0w2LTbHBoH+eP+h/59zF/e3gzylVJEplhSEMJKQIUNMRcxs
+NFUAqit0iB3GIcLUdhkOR7Dj4CDhVqRzIWIXFJKAbVlRl68eNV0VkARRlhEUAdsj
+dvIDIRLFrFjDBInUAFBFmi5gCAFPqIh0TUA6hiwGUAyWFUKqKhBgAGQkCDxRBKgD
+XRZdBA4pClucXxBFGQqQJbBJiVVAXHPHDDJyDudfwIEvlxPMC4wO5DFDYagMj6wI
+VGU4VKwjho5tUtcwohAbAFFJhMyb7R/wKmX2POUWrXDt7BJT72/vHta/IUzWrRCL
+FbGtqKVbhWwxPxqNOH4XTrQs4qpLiRb4s09AM8MGuy2sooTYjmmFGSym/Cc3NZ0j
+SyOmTQKmq5BkpPDsc31ICWspKkSUDCJRVUBAkYmqMkaqhmSkCYoMZB0LyAAylZCg
+I3YNJZVqQCWGrCCqEaD/DVJiMXGQtWT0wjhabLNjTawe8EC8Jy7RM3jQAPcZeRKH
+Jv/1toY1e++mVnxyXh+SPNoXP9ZX0N40admg2LBZzQ/lJ6h36ho/e7b5ldjMs0+m
+rygsz24+stEz7nt+6fhXd6XU+G5sSk33TfW31LYfODen+uX5pxfX++a/8VVa6oht
+Df5Hc3rD63PLTmZv3nm1dHXwvHZn0dmM5YFgXHtuUtW5itqUHVtP2POGblx3Kqdj
++Oa+ruOjGoz618Zkn8htG71wqzFxzuKeyi0Xjs3z3vbes+CpuhHfhbI+3yffl5kZ
+ypi0sGbn5W9INHvbLG22EuzYPnRN9w9liclnXiq6lVK8JmHiRt+M6ukV+UkDn0gd
+M2XAjrmbyL7Vib3727aoXMOUJr5OKv6oqKv7g3Wnb32xuu/1tEuPe1qu7V5l572Q
+2aeHqzKuH9vesSVmv7v2/jOhQ7ElIx5+b3NV9Nu1SVzXwfZfL+yq7Z5QeOWn9dvW
+ZrVUNsZXylkrZ8j7l3k7c/Jad8UnJOxu3Ws8mNlRuTxlT/3tYWN9J4uOln56eM5z
+jW+3PTPm1M1rG7wXr6JVsbkj5+bl75zS5tlfc2pPxtHWypJDVmraxZ+dwUMOx7Va
+ayaO61xVOqGqvDs+duNSnTcy/FisfVTPx78lOfHeprfyas2srIstXP1du7Qz5da0
+7pPTnXc+bD1xIM4wricb03Km9sake0fmXn9/7+89ByPV45dcXmk+MnPD7Nl1T3c1
+TxjY+XXO8wdoTWPDm4Kv6Q8=
+=27TT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ryanpassage
+
+==================================================================
