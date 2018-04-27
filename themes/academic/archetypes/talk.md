@@ -1,6 +1,6 @@
 +++
 title = "{{ replace .TranslationBaseName "-" " " | title }}"
-date = {{ .Date }}  # Schedule page publish date.
+date = {{ .Date }}
 draft = false
 
 # Talk start and end times.
