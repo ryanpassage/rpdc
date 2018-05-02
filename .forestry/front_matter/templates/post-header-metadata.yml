@@ -1,0 +1,16 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  label: Image
+  name: image
+  description: Header image
+- type: text
+  name: caption
+  label: Caption
+  description: Header image caption
+- type: boolean
+  name: preview
+  label: Show in preview
+  description: Show header image in post previews?
