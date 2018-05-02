@@ -1,4 +1,28 @@
 ---
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  label: Title
+  name: title
+  description: Post title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  description: Post date
+- type: text
+  name: summary
+  label: Summary
+  description: One-line summary for display in post lists.
+  config:
+    required: true
+- type: tag_list
+  name: tags
+  label: Tags
+  description: Tags list
+- type: file
+  label: Header Image
+  name: image
+  description: Header image
