@@ -22,9 +22,21 @@ fields:
   name: tags
   label: Tags
   description: Tags list
-- type: blocks
+- type: field_group
   name: header
   label: Header
-  description: Header metadata
-  template_types:
-  - post-header-metadata
+  description: Header image data
+  fields:
+  - type: file
+    name: image
+    label: Image
+    description: Header image
+  - type: text
+    name: caption
+    label: Caption
+    description: Header image caption
+  - type: boolean
+    name: preview
+    label: Preview
+    description: Show header image in blog post previews?
+    default: true
