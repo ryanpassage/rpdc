@@ -22,7 +22,9 @@ fields:
   name: tags
   label: Tags
   description: Tags list
-- type: file
-  label: Header Image
-  name: image
-  description: Header image
+- type: blocks
+  name: header
+  label: Header
+  description: Header metadata
+  template_types:
+  - post-header-metadata
