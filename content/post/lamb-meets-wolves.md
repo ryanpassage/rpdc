@@ -6,8 +6,8 @@ summary = "Asking for security advice online can leave you feeling like you're t
 tags = []
 title = "Lamb Meets Wolves"
 [header]
-caption = ""
-image = ""
+caption = "What sharp teeth you have"
+image = "/uploads/2018/06/06/tyrannosaurusrex-01.jpg"
 preview = true
 
 +++
