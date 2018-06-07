@@ -17,9 +17,9 @@ I read a post on reddit the other day that got me a little hot under the collar.
 
 Boy was I disappointed. Maybe there was just something in the water that day in /r/AskNetsec, but some of the replies struck me as being hostile and really not at all helpful. This is especially wacky considering the purpose of the AskNetsec forum: to ask security questions!
 
-I think this is bad business for infosec and IT in general. It's not helpful and only serves to push the image of [Nick Burns, Your Company's Computer Guy](https://www.nbc.com/saturday-night-live/video/nick-burns-your-companys-computer-guy/n11268 "Nick Burns, Your Company's Computer Guy") to those who don't get a lot of exposure to actual IT support capable of empathy. There can be such a wide disconnect between those that need _(need)_ help outside the field and those that can provide it. 
+I think this is bad business for infosec and IT in general. It's not helpful and only serves to push the image of [Nick Burns, Your Company's Computer Guy](https://www.nbc.com/saturday-night-live/video/nick-burns-your-companys-computer-guy/n11268 "Nick Burns, Your Company's Computer Guy") to those who don't get a lot of exposure to actual IT support capable of empathy. There can be such a disconnect between those that need _(need)_ help outside the field and those that can provide it. 
 
-_more_
+Some of the information security influencers that I follow on social media have zeroed in on this as well.  They see the negative effects of haughtiness as a real challenge in the pursuit of advocating for better security and awareness. 
 
 > _postscript:_
 >
