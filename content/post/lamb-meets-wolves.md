@@ -23,6 +23,9 @@ This reddit discussion reminded me of those times back on IRC. Sure, people were
 
 Some of the information security influencers that I follow on social media have zeroed in on this as well.  They see the negative effects of haughtiness as a real challenge in the pursuit of advocating for better security and awareness. It just turns people off and discourages them from ever wanting to invest their time or interest in the mission at hand, which is keeping us all protected from the bad guys.
 
+In short:  
+![](/uploads/2018/06/10/8AB25587-AF6F-400F-A8AB-A64D6232993A.png)
+
 > _postscript:_
 >
 > I don't really like that my first post of any real substance is basically a criticism. It sets kind of a negative tone. But I also left the reddit post open in a separate browser tab for like 2 weeks and realized that it really must've bothered me, so I probably should say _something_.
