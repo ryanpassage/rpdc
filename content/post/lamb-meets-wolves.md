@@ -15,7 +15,7 @@ preview = true
 
 I read a post on reddit the other day that had me raising an eyebrow. The discussion was started by someone who works at a very small law firm, which had a concern about the security of their email system -- in particular the way they exchange confidential information with contacts outside their firm. The original poster was very open about being uneducated in this area and I thought it was an interesting topic, so I decided to read the comments to follow along.
 
-Boy was I disappointed. Maybe there was just something in the water that day in /r/AskNetsec, but some of the replies struck me as being hostile and really not at all helpful. This is especially bizarre considering the purpose of the AskNetsec forum: to ask and answer security questions!
+Boy was I disappointed. Maybe there was just something in the water that day in /r/AskNetsec, but some of the replies struck me as being hostile and really not at all helpful. The original poster was out there, exposed, and the T-Rex was circling. This is especially bizarre considering the purpose of the AskNetsec forum: to ask and answer security questions!
 
 Back several years ago (😵) when I was in college, I was involved in helping to run a server on the [Undernet IRC network](http://www.undernet.org "Undernet IRC network"). We had a help channel for our server, where people could come and ask questions or get us to help them untangle whatever drama their channel was going through. There were always these people that would hang out and try to help, but for whatever reason they ended up doing some harm instead. Maybe they were trying too hard or wanted to score points with us to raise their own profile on the network. Whatever the reason, it was very counterproductive.
 
