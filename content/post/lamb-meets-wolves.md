@@ -7,7 +7,7 @@ title = "Happy to Help"
 [header]
 caption = "What sharp teeth you have"
 image = ""
-preview = true
+preview = false
 
 +++
 > Thoughts on responses from [this post on /r/AskNetsec](https://www.reddit.com/r/AskNetsec/comments/8lc1lu/totally_uneducated_in_this_area_and_tasked_with/ "this post on /r/AskNetsec").
