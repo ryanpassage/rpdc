@@ -1,9 +1,9 @@
 +++
 categories = []
-date = "2018-06-06T20:00:00-04:00"
+date = "2018-06-10T20:00:00-04:00"
 draft = true
 summary = "Asking for security advice online can leave you feeling like you're that goat from Jurassic Pa"
-tags = []
+tags = ["help", "infosec", "editorial", "being-nice", "reddit", "irc"]
 title = "Happy to Help"
 [header]
 caption = "What sharp teeth you have"
