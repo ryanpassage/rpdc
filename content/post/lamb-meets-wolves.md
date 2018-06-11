@@ -6,7 +6,7 @@ tags = ["help", "infosec", "editorial", "being-nice", "reddit", "irc"]
 title = "Happy to Help"
 [header]
 caption = "What sharp teeth you have"
-image = "/uploads/2018/06/06/tyrannosaurusrex-01.jpg"
+image = ""
 preview = true
 
 +++
