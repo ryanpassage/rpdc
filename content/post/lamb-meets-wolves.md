@@ -4,7 +4,7 @@ date = "2018-06-06T20:00:00-04:00"
 draft = true
 summary = "Asking for security advice online can leave you feeling like you're that goat from Jurassic Pa"
 tags = []
-title = "Lamb Meets Wolves"
+title = "Happy to Help"
 [header]
 caption = "What sharp teeth you have"
 image = "/uploads/2018/06/06/tyrannosaurusrex-01.jpg"
