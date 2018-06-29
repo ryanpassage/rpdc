@@ -11,3 +11,4 @@ image = "/uploads/2018/06/29/skeleton-key-collection-640x533.jpg"
 preview = true
 
 +++
+Today on Planet Money, we look at how and why we're so quick to give all these apps and services access to our financials, and what they do with those skeleton keys long after we've stopped using them.
