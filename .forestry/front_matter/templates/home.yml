@@ -1,4 +1,9 @@
 ---
+label: home
 hide_body: false
 is_partial: false
 fields: []
+pages:
+- content/home/posts.md
+- content/home/about.md
+- content/home/contact.md

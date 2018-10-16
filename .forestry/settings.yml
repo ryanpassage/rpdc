@@ -4,20 +4,26 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- path: content
-  label: Pages
-  create: all
-- path: content/home
+- type: directory
+  path: content/home
   label: Home
   create: all
-  default_front_matter_template: home
-- path: content/tags
-  label: Tags
-  create: all
-- path: content/post
+  match: "**/*"
+- type: directory
+  path: content/post
   label: Post
   create: all
-  default_front_matter_template: post
+  match: "**/*"
+- type: directory
+  path: content/tags
+  label: Tags
+  create: all
+  match: "**/*"
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
